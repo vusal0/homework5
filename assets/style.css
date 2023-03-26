@@ -1,0 +1,391 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.item {
+    width: 1200px;
+    height: 70px;
+    background-color: rgb(239, 243, 242);
+    padding: 0px 150px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sb {
+    font-size: larger;
+}
+
+#h {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 50px;
+}
+
+#a {
+    color: rgb(122, 120, 120);
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 50px;
+}
+
+.so {
+    color: rgb(122, 120, 120);
+    border: 0;
+    background-color: rgb(239, 243, 242);
+    width: 62px;
+    height: 20px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.case {
+    margin-left: 650px;
+    margin-top: 20px;
+}
+
+#c {
+    font-size: larger;
+    color: black;
+    text-decoration: none;
+}
+
+.case :hover {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+.bttn {
+    width: 120px;
+    height: 30px;
+    margin: 0px auto;
+    transition: .25s;
+    background-color: rgb(239, 243, 242);
+    border-radius: 5px;
+}
+
+button a i {
+    margin-right: 15px;
+}
+
+#o {
+    color: black;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+#o {
+    background-color: black;
+    border-radius: 1000px;
+    color: white;
+    margin: 0 auto;
+    font-size: larger;
+}
+
+.main {
+    width: 530px;
+    height: 580px;
+    background-color: rgb(200, 216, 211);
+    margin: 80px 110px;
+}
+
+.all {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mn {
+    text-align: center;
+    font-size: 80px;
+    padding-top: 150px;
+    color: rgb(145, 142, 142);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sku {
+    font-size: 13px;
+    padding-top: 150px;
+}
+
+#sit {
+    font-size: 40px;
+}
+
+.mm {
+    display: flex;
+    font-size: 20px;
+}
+
+#without {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem {
+    color: rgb(97, 96, 96);
+}
+
+.one {
+    display: flex;
+}
+
+#one {
+    width: 45px;
+    height: 40px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.btn2 {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 8px 30px;
+    transition-duration: .25s;
+    cursor: pointer;
+    background-color: white;
+}
+
+.btn2:hover {
+    background-color: rgb(46, 46, 48);
+    color: white;
+}
+
+#atc {
+    margin: 0 auto;
+}
+
+.blue {
+    width: 1500px;
+    height: 800px;
+    background-color: rgb(239, 243, 242);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#rp {
+    margin-left: 150px;
+    padding-top: 120px;
+    font-size: 40px;
+}
+
+.item1 {
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+    border: 1 solid silver;
+    margin: 0px 110px;
+}
+
+.itemm1 {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+
+#ii1 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(200, 216, 211);
+    text-align: center;
+    padding-top: 8%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(145, 142, 142);
+}
+
+.fp {
+    text-align: center;
+    font-size: larger;
+}
+
+.vo {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+}
+
+.vo:hover {
+    background-color: rgb(46, 46, 48);
+    color: white;
+}
+
+#ii2 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(200, 216, 211);
+    text-align: center;
+    padding-top: 8%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(145, 142, 142);
+}
+
+.sale1 {
+    background-color: rgb(200, 216, 211);
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+#sale {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.star1 {
+    font-size: 13px;
+    color: orange;
+}
+
+.si {
+    font-size: larger;
+    text-align: center;
+}
+
+#si20 {
+    color: grey;
+}
+
+.adtc {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+}
+
+.adtc:hover {
+    background-color: rgb(46, 46, 48);
+    color: white;
+}
+
+#ii3 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(200, 216, 211);
+    text-align: center;
+    padding-top: 8%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(145, 142, 142);
+}
+
+.sale2 {
+    background-color: rgb(200, 216, 211);
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+#sale1 {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.saleitem {
+    font-size: larger;
+    text-align: center;
+}
+
+#si50 {
+    color: grey;
+}
+
+.adtc2 {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+}
+
+.adtc2:hover {
+    background-color: rgb(46, 46, 48);
+    color: white;
+}
+
+#ii4 {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(200, 216, 211);
+    text-align: center;
+    padding-top: 8%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(145, 142, 142);
+}
+
+.star {
+    font-size: 13px;
+    color: orange;
+}
+
+.pi {
+    font-size: larger;
+    text-align: center;
+}
+
+.adtc3 {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+}
+
+.adtc3:hover {
+    background-color: rgb(46, 46, 48);
+    color: rgb(255, 255, 255);
+}
+
+.end {
+    width: 1500;
+    height: 70px;
+    background-color: rgb(46, 46, 48);
+    color: rgb(17, 16, 16);
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
